@@ -1,0 +1,76 @@
+body{
+    background-image: url('K.jpg'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Ensure full viewport height */
+    margin: 0;
+    padding: 0;
+}
+
+.poppins-medium {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+.navbar{
+    background-color: beige;
+}
+
+main{
+    margin-top: 7%;
+}
+
+#skycast{
+    margin-top: 0%;
+    color:beige;
+    font-family: "Poppins", sans-serif;
+    
+}
+h1{
+    color: beige;
+}
+
+#description{
+    font-size: 99%;
+    color: beige;
+    font-weight: 400;
+}
+
+#footer{
+    margin-top: 40%;
+}
+
+
+#mainbox{
+    background-color: beige;
+    width: 50%;
+   display: flex;
+   justify-content:center;
+   border-radius: 10px;
+}
+
+#outerdiv{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.form-control{
+    width: 99%;
+   
+}
+#convertbtn{
+    margin-left: 30%;
+}
+
+.crumb{
+    color: beige;
+   text-decoration: none;
+   font-weight: 400;
+}
+
+.foot{
+    color: beige;
+    font-weight: 400;
+}
